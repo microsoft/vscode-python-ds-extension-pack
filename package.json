@@ -1,0 +1,48 @@
+{
+    "name": "python-ds-extension-pack",
+    "displayName": "Python Data Science",
+    "description": "An extension pack for Python data scientists.",
+    "version": "0.0.1",
+    "publisher": "ms-toolsai",
+    "license": "MIT",
+    "icon": "ds-icon.png",
+    "homepage": "https://github.com/microsoft/vscode-python-ds-extension-pack",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/microsoft/vscode-python-ds-extension-pack"
+    },
+    "bugs": {
+        "url": "https://github.com/microsoft/vscode-python-ds-extension-pack"
+    },
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Extension Packs",
+        "Data Science",
+        "Machine Learning",
+        "Notebooks",
+        "Visualization"
+    ],
+    "keywords": [
+        "datascience",
+        "jupyter",
+        "notebook",
+        "python",
+        "interactive"
+    ],
+    "extensionPack": [ 
+        "ms-toolsai.jupyter",
+        "ms-python.python",
+        "ms-toolsai.datawrangler",
+        "mechatroner.rainbow-csv",
+        "GrapeCity.gc-excelviewer",
+        "msrvida.vscode-sanddance",
+        "ms-vscode-remote.remote-ssh",
+        "GitHub.codespaces",
+        "Iterative.dvc",
+        "donjayamanne.python-environment-manager",
+        "github.copilot",
+        "visualstudioexptteam.vscodeintellicode"
+    ]
+}

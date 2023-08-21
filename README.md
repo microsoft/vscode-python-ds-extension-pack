@@ -1,14 +1,43 @@
-# Project
+# Visual Studio Code Data Science Extension Pack
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+This **Python Data Science extension pack** includes some of the most popular and useful VS Code extensions for doing data science work in Python.
 
-As the maintainer of this project, please make a few updates:
+This extension pack is designed to provide comprehensive tools for your **data science workflows** from preparing data, conducting data analysis, and visualizing data, to prototyping, evaluating, and training ML models. It includes the following extensions:
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+**Data exploration and analysis**
+
+- [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) - Create and edit Jupyter Notebooks
+- [Data Wrangler](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.datawrangler) - Explore, visualize, and clean tabular data
+- [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv) - Highlight CSV and TSV files and run SQL-like queries
+- [Excel Viewer](https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer) - Edit Excel spreadsheets and CSV files from VS Code
+- [SandDance](https://marketplace.visualstudio.com/items?itemName=msrvida.vscode-sanddance) - Visually explore, understand, and present data
+
+**ML workflow and environment management**
+
+- [SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) - Open any folder on a remote machine using SSH
+- [GitHub Codespaces](https://marketplace.visualstudio.com/items?itemName=GitHub.codespaces) - Instantly connect to cloud-hosted development environments
+- [DVC](https://marketplace.visualstudio.com/items?itemName=Iterative.dvc) - Manage machine learning experiments with tracking, plots, and data versioning
+
+**Python support and development optimization**
+
+- [Python + Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Get  rich support for the Python language
+- [Python Environment Manager](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-environment-manager) - View and manage Python environments & packages
+- [IntelliCode](https://marketplace.visualstudio.com/items?itemName=visualstudioexptteam.vscodeintellicode) - Write code with intelligent code completion and suggestions
+- [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=github.copilot) - AI pair programmer
+
+## Try on Codespaces
+
+Try out this extension pack on [GitHub Codespaces](https://github.com/codespaces)--a cloud-hosted data science development environment!
+
+1. Ensure you're signed up and logged into your [GitHub](https://github.com/) account
+2. Navigate to the [GitHub Codespaces](https://github.com/codespaces) page
+3. Click the green **New codespace** button on the top right corner (or the **Jupyter Notebook template**, if you'd like a sample project)
+4. Once your Codespace loads, navigate to the Extensions tab (`Cmd + Shift + X`)
+5. Search for and install the **Python Data Science** extension pack (`@id:ms-toolsai.python-ds-extension-pack`)
+
+## Providing Feedback
+
+Please provide feedback, file issues, and request adding / removing extensions in the [issues tab](https://github.com/microsoft/vscode-python-ds-extension-pack/issues).
 
 ## Contributing
 
