@@ -4,7 +4,7 @@ This **Python Data Science extension pack** includes some of the most popular an
 
 This extension pack is designed to provide comprehensive tools for your **data science workflows** from preparing data, conducting data analysis, and visualizing data, to prototyping, evaluating, and training ML models. It includes the following extensions:
 
-**Data exploration and analysis**
+### Data exploration and analysis
 
 - [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) - Create and edit Jupyter Notebooks
 - [Data Wrangler](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.datawrangler) - Explore, visualize, and clean tabular data
@@ -12,13 +12,13 @@ This extension pack is designed to provide comprehensive tools for your **data s
 - [Excel Viewer](https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer) - Edit Excel spreadsheets and CSV files from VS Code
 - [SandDance](https://marketplace.visualstudio.com/items?itemName=msrvida.vscode-sanddance) - Visually explore, understand, and present data
 
-**ML workflow and environment management**
+### ML workflow and environment management
 
 - [SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) - Open any folder on a remote machine using SSH
 - [GitHub Codespaces](https://marketplace.visualstudio.com/items?itemName=GitHub.codespaces) - Instantly connect to cloud-hosted development environments
 - [DVC](https://marketplace.visualstudio.com/items?itemName=Iterative.dvc) - Manage machine learning experiments with tracking, plots, and data versioning
 
-**Python support and development optimization**
+### Python support and development optimization
 
 - [Python + Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Get  rich support for the Python language
 - [Python Environment Manager](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-environment-manager) - View and manage Python environments & packages
