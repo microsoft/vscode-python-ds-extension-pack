@@ -21,6 +21,3 @@ extends:
     buildSteps:
       - script: yarn install --frozen-lockfile
         displayName: Install dependencies
-
-      - script: yarn run compile
-        displayName: Compile
