@@ -5,7 +5,7 @@
     "version": "0.0.1",
     "publisher": "ms-toolsai",
     "license": "MIT",
-    "icon": "ds-icon.png",
+    "icon": "Market_DataScience_128.png",
     "homepage": "https://github.com/microsoft/vscode-python-ds-extension-pack",
     "repository": {
         "type": "git",
@@ -22,27 +22,28 @@
         "Data Science",
         "Machine Learning",
         "Notebooks",
-        "Visualization"
+        "Visualization",
+        "AI"
     ],
     "keywords": [
         "datascience",
         "jupyter",
         "notebook",
         "python",
-        "interactive"
+        "interactive",
+        "AI",
+        "machine learning",
+        "data wrangling",
+        "data visualization",
+        "data analysis",
+        "data exploration",
+        "data cleaning",
+        "copilot"
     ],
     "extensionPack": [ 
         "ms-toolsai.jupyter",
         "ms-python.python",
         "ms-toolsai.datawrangler",
-        "mechatroner.rainbow-csv",
-        "GrapeCity.gc-excelviewer",
-        "msrvida.vscode-sanddance",
-        "ms-vscode-remote.remote-ssh",
-        "GitHub.codespaces",
-        "Iterative.dvc",
-        "donjayamanne.python-environment-manager",
-        "github.copilot",
-        "visualstudioexptteam.vscodeintellicode"
+        "github.copilot"
     ]
 }

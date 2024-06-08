@@ -2,27 +2,13 @@
 
 This **Python Data Science extension pack** includes some of the most popular and useful VS Code extensions for doing data science work in Python.
 
-This extension pack is designed to provide comprehensive tools for your **data science workflows** from preparing data, conducting data analysis, and visualizing data, to prototyping, evaluating, and training ML models. It includes the following extensions:
+This extension pack is a one-stop shop to get tools for your **data science workflows** from preparing data, conducting data analysis, and visualizing data, to prototyping, evaluating, and training ML models. It includes the following extensions at the moment:
 
-### Data exploration and analysis
-
-- [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) - Create and edit Jupyter Notebooks
-- [Data Wrangler](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.datawrangler) - Explore, visualize, and clean tabular data
-- [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv) - Highlight CSV and TSV files and run SQL-like queries
-- [Excel Viewer](https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer) - Edit Excel spreadsheets and CSV files from VS Code
-- [SandDance](https://marketplace.visualstudio.com/items?itemName=msrvida.vscode-sanddance) - Visually explore, understand, and present data
-
-### ML workflow and environment management
-
-- [SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) - Open any folder on a remote machine using SSH
-- [GitHub Codespaces](https://marketplace.visualstudio.com/items?itemName=GitHub.codespaces) - Instantly connect to cloud-hosted development environments
-- [DVC](https://marketplace.visualstudio.com/items?itemName=Iterative.dvc) - Manage machine learning experiments with tracking, plots, and data versioning
-
-### Python support and development optimization
 
 - [Python + Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Get  rich support for the Python language
-- [Python Environment Manager](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-environment-manager) - View and manage Python environments & packages
-- [IntelliCode](https://marketplace.visualstudio.com/items?itemName=visualstudioexptteam.vscodeintellicode) - Write code with intelligent code completion and suggestions
+- [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) - Create and edit Jupyter Notebooks
+- [Data Wrangler](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.datawrangler) - Explore, visualize, and clean tabular data
+
 - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=github.copilot) - AI pair programmer
 
 ## Try on Codespaces
