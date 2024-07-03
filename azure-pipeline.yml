@@ -25,3 +25,9 @@ extends:
   template: azure-pipelines/extension/stable.yml@templates
   parameters:
     publishExtension: ${{ parameters.publishExtension }}
+
+    tsa:
+      config:
+        areaPath: 'Visual Studio Code Python Extensions'
+        serviceTreeID: '6e6194bc-7baa-4486-86d0-9f5419626d46'
+      enabled: true
