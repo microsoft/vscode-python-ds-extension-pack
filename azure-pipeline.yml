@@ -7,6 +7,12 @@ trigger:
     include: ['*']
 pr: none
 
+parameters:
+  - name: publishExtension
+    displayName: 🚀 Publish Extension
+    type: boolean
+    default: false
+
 resources:
   repositories:
     - repository: templates
@@ -18,12 +24,10 @@ resources:
 extends:
   template: azure-pipelines/extension/stable.yml@templates
   parameters:
-    buildSteps:
-      - script: yarn install --frozen-lockfile
-        displayName: Install dependencies
+    publishExtension: ${{ parameters.publishExtension }}
 
     tsa:
       config:
-        areaPath: 'Visual Studio Code Python Extensions'
-        serviceTreeID: '6e6194bc-7baa-4486-86d0-9f5419626d46'
+        areaPath: 'Visual Studio Code Jupyter Extensions'
+        serviceTreeID: '14f24efd-b502-422a-9f40-09ea7ce9cf14'
       enabled: true
