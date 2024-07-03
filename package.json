@@ -15,7 +15,7 @@
         "url": "https://github.com/microsoft/vscode-python-ds-extension-pack"
     },
     "engines": {
-        "vscode": "^1.62.0"
+        "vscode": "^1.88.0"
     },
     "categories": [
         "Extension Packs",
