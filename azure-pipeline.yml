@@ -7,6 +7,12 @@ trigger:
     include: ['*']
 pr: none
 
+parameters:
+  - name: publishExtension
+    displayName: 🚀 Publish Extension
+    type: boolean
+    default: false
+
 resources:
   repositories:
     - repository: templates
@@ -18,6 +24,4 @@ resources:
 extends:
   template: azure-pipelines/extension/stable.yml@templates
   parameters:
-    buildSteps:
-      - script: yarn install --frozen-lockfile
-        displayName: Install dependencies
+    publishExtension: ${{ parameters.publishExtension }}
