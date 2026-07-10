@@ -44,6 +44,6 @@
         "ms-toolsai.jupyter",
         "ms-python.python",
         "ms-toolsai.datawrangler",
-        "github.copilot"
+        "github.copilot-chat"
     ]
 }

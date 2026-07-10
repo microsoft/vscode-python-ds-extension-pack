@@ -8,8 +8,7 @@ This extension pack is a one-stop shop to get tools for your **data science work
 - [Python + Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Get  rich support for the Python language
 - [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) - Create and edit Jupyter Notebooks
 - [Data Wrangler](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.datawrangler) - Explore, visualize, and clean tabular data
-
-- [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=github.copilot) - AI pair programmer
+- [GitHub Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat) - AI pair programmer
 
 ## Try on Codespaces
 
